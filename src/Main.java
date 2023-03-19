@@ -45,7 +45,7 @@ public class Main {
         System.out.println("Answer to the Ultimate Question of Life, the Universe, and Everything is the number 42: " + NegativeAnswerQuestion);
         System.out.println();
 
-// Task 7
+// Task 8
 
        // Version 1
 
