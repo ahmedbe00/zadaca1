@@ -27,6 +27,7 @@ Za pocetak bi vas zamolio da uradite sljedece:
 10. Desni klick na ' public static void main’ metodu i izaberite -> Run ‘Main.main’
 11. Od tog trenutka mozete da pokrecete projekat sa onim malim play dugmetom
     
+ 
 Zadaca:
 1. Napravit cete readme.md file koji sadrzi zadatke koje sam vam zadao. Ovo mozete preko intelij ne terminala.
 2. readme.md fajl se treba nalaziti u samom folderu zadaca1
